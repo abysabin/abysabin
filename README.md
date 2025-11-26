@@ -7,7 +7,7 @@
 
 # 👋 About Me
 
-Data Architect with **14+ years** of experience in building scalable **data platforms**, end-to-end **ETL/ELT pipelines**, and enterprise-grade **analytics solutions** across retail, finance, healthcare, education, and manufacturing.
+Data Engineer with **14+ years** of experience in building scalable **data platforms**, end-to-end **ETL/ELT pipelines**, and enterprise-grade **analytics solutions** across retail, finance, healthcare, education, and manufacturing.
 
 I specialize in:
 - Cloud Data Warehousing
