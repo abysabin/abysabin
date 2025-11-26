@@ -111,7 +111,7 @@ I specialize in:
 
 <p>
   <a href="mailto:a.abinalex@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abin-alex-a4732293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
