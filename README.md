@@ -87,7 +87,7 @@ I specialize in:
 - **B.Tech – Computer Science Engineering**, Kerala University (2010)
 
 ---
-
+<!--
 # 📈 GitHub Stats
 
 <p align="center">
@@ -98,7 +98,7 @@ I specialize in:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinalex&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 # 🎨 Interests
