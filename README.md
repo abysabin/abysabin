@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&color=0ad4ff&center=true&vCenter=true&width=900&lines=Hi+I'm+Abin+Alex;Data+Architect+%7C+ETL%2FELT+Engineer+%7C+Data+Manager;14%2B+Years+of+Experience+in+Data+Engineering;Snowflake+%7C+Matillion+%7C+DBT+%7C+Tableau+%7C+SQL+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&color=0ad4ff&center=true&vCenter=true&width=900&lines=Hi+I'm+Abin+Alex;Data+Engineer+%7C+Architect+%7C+Data+Manager;14%2B+Years+of+Experience+in+Data+Engineering;Snowflake+%7C+Matillion+%7C+DBT+%7C+Tableau+%7C+SQL+%7C+Python" />
 </p>
 
 ---
